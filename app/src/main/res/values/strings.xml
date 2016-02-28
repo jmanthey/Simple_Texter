@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Texter</string>
+    <string name="message">message</string>
+    <string-array name="text_array">
+        <item>On my way.</item>
+        <item>See you Soon.</item>
+        <item>Hello.</item>
+        <item>I cannot make it.</item>
+        <item>I am busy right now.</item>
+    </string-array>
+</resources>
